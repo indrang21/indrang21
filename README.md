@@ -1,6 +1,6 @@
-- Hi 👋, I'm Nafisa Anjum Samia
+- Hi 👋, I'm Indrani Nag
 
-- 🔭 I’m currently working as **Data Scientist** 
+- 🔭 I’m currently looking for data professional job
 
 - 🌱 I’m learning **Data Science and Machine Learning**
 
